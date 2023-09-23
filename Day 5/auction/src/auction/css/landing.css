@@ -1,0 +1,88 @@
+.bottom-topic
+{
+  position: absolute;
+  left:990px;
+  top:460px;
+  font-family:'Poppins';
+
+}
+.para
+{
+  position: absolute;
+  left: 130px;
+  top:170px;
+  font-family:'Gill Sans';
+  font-size: 16px;
+}
+.tick
+{
+  position: absolute;
+  left: 110px;
+  top:300px;
+  font-size:22px;
+  font-family: 'Poppins';
+  color:red;
+}
+
+.women
+{
+position: absolute;
+left: 800px;
+}
+.img
+{
+  height: 100px;
+}
+  .heading1{
+    position: absolute;
+    left:700px;
+  }
+  .topic
+  {
+    position: absolute;
+    color: #ff00bf;
+  }
+  .sub-topic
+  {
+    position: absolute;
+    left:120px;
+    top:100px;
+  }
+  
+  .login_btn1 {
+    position: absolute;
+    left: 1030px;
+    width: 10%;
+    top:520px;
+    color: #ffffff;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #4204ec;;
+    border-radius: 5px;
+    background-color: #4204ec;;
+    box-shadow: 1px 2px 3px #4204ec;
+    transition: all 120ms ease-in;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .login_btn1:hover {
+    box-shadow: 1px 3px 5px #14de8d;
+    transform: translateY(-1px);
+  }
+  
+  .login_btn1:active,
+  .login_btn1:visited {
+    transform: translateY(1px);
+    outline: none;
+    box-shadow: 1px 2px 3px #27debf;
+  }
+
+
+
+
+
+
+
+
+ 
