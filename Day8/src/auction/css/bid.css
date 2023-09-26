@@ -1,0 +1,44 @@
+.headfile
+{
+    position: absolute;
+    color: black;
+    left:300px;
+    top:160px;   
+}
+
+.coined1{
+    position:absolute;
+    left: 300px;
+    top:250px;
+    width: 270px;
+    height: 310px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;  
+}
+.bhp11{
+    position:absolute;
+    left: 65px;
+    top:0px;
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    transition: 0.3s;
+     transform: scale(1);
+     transition: .3s ease-in-out;
+}
+.bhp11:hover{
+  transform: scale(1.05);
+}
+.bhp1{
+    position:absolute;
+    left: 65px;
+    top:200px;
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+    transition: 0.3s;
+     transform: scale(1);
+     transition: .3s ease-in-out;
+}
